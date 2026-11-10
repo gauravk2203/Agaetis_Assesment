@@ -84,7 +84,7 @@ pnpm dev
 | GET | /api/employees | Get employees |
 | GET | /api/employees/:id | Get employee |
 | POST | /api/employees | Create employee |
-| PATCH | /api/employees/:id | Update employee |
+| PATCH/PUT | /api/employees/:id | Update employee |
 | DELETE | /api/employees/:id | Delete employee |
 
 
