@@ -87,6 +87,11 @@ pnpm dev
 | PATCH | /api/employees/:id | Update employee |
 | DELETE | /api/employees/:id | Delete employee |
 
+
+## Developer Portfolio
+
+🌐 [Gaurav Kadam – Portfolio](https://gaurav-kadam.netlify.app/)
+
 ## License
 
 MIT
